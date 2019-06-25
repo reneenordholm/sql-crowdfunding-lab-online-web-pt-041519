@@ -13,7 +13,7 @@ CREATE TABLE users (
   age INTEGER
 );
 
-CREATE TABLE pledge (
+CREATE TABLE pledges (
   amount INTEGER,
   project_id INTEGER,
   user_id INTEGER
